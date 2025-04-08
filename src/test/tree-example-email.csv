@@ -1,0 +1,5 @@
+﻿Email,Valid,Disposable,SMTPScore,Suspect,CatchAll,Deliverability,FraudScore,Leaked,RecentAbuse,UserVelocity
+support@ipqualityscore.com,TRUE,FALSE,1,TRUE,FALSE,3,0,FALSE,FALSE,0
+test@gmail.com,FALSE,FALSE,1,FALSE,FALSE,3,100,TRUE,TRUE,2
+test@example.com,FALSE,TRUE,0,FALSE,FALSE,3,100,TRUE,TRUE,1
+dbd1jl5mb@mozmail.com,FALSE,TRUE,0,FALSE,FALSE,3,100,FALSE,TRUE,0
