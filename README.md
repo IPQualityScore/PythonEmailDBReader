@@ -10,7 +10,7 @@ Click here to see the full [Python IPQualityScore flat file email validation dat
 
 You can easily install the Python database reader using pip:
 
-pip install git+https://github.com/IPQualityScore/PythonIPQSEmailDBReader
+pip install git+https://github.com/IPQualityScore/PythonEmailDBReader
 
 ## Usage
 
